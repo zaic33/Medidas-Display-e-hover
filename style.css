@@ -1,0 +1,19 @@
+section{
+    margin-top: 40px;
+}
+
+.text-line{
+    display: inline-block;
+    background-color: #fff;
+    font-family: sans-serif;
+    color: #000;
+    border: 2px solid #000;
+    padding: 8px;
+    margin: 5px;
+}
+
+.text-line:hover{
+    background-color: blue;
+    color: #fff;
+}
+
